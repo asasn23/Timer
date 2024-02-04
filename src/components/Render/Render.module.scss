@@ -1,0 +1,10 @@
+@import '../../styles/settings.scss';
+
+.title {
+    font-size: ($base-size * 3.5);
+    text-transform: uppercase;
+    color: $color-light;
+    text-align: center;
+    margin-top: 250px;
+    width: 100%;
+}
